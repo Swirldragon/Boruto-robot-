@@ -1,7 +1,7 @@
-# Alita_Robot
+# Boruto_Robot
 
 <p align='center'>
-  <a href="https://github.com/divideprojects/Alita_Robot/actions/workflows/ci.yml"><img src="https://github.com/divideprojects/Alita_Robot/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+  <a href="https://github.com/swirldragon/Boruto_Robot/actions/workflows/ci.yml"><img src="https://github.com/divideprojects/Boruto/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <a href="https://github.com/divideprojects/Alita_Robot/actions/workflows/release.yml" alt="made-with-go"> <img src="https://github.com/divideprojects/Alita_Robot/actions/workflows/release.yml/badge.svg" alt="Release"/> </a>
 </p>
 
@@ -22,9 +22,9 @@
   <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
 
-Alita is a Telegram Group managment bot made using **[Gotgbot](https://github.com/PaulSonOfLars/gotgbot)** and **[Go](https://go.dev)**, which makes it modern and faster than most of the exisitng Telegram Chat Managers.
+boruto anime themed is a Telegram Group managment bot made using **[Gotgbot](https://github.com/PaulSonOfLars/gotgbot)** and **[Go](https://go.dev)**, which makes it modern and faster than most of the exisitng Telegram Chat Managers.
 
-**Alita's features over other bots:**
+**Boruto's features over other bots:**
 - Modern
 - Fast
 - Fully asynchronous
@@ -32,11 +32,11 @@ Alita is a Telegram Group managment bot made using **[Gotgbot](https://github.co
 - Frequently updated
 - Multi Language Support
 
-Can be found on Telegram as [@Alita_Robot](https://t.me/Alita_Robot)
+Can be found on Telegram as [@Boruto_ProRobot](https://t.me/Boruto_ProRobot)
 </br>
 
-Alita is currently available in 1 Language as of now:
-- **US English**
+BORUTO is currently available in 2  Language as of now:
+- **US English** Japanese
 
 More languages can be managed in the _locales_ folder. Although we have added support for languages in bot, we still need contributors to translate the bot to other languages.
 
@@ -110,7 +110,7 @@ gpg --keyserver keyserver.ubuntu.com --recv 9CAFFF2AC5F94C7C
 ```
 # example: verify a release package
 ```bash
-gpg --verify alita_robot_2.0.1_darwin_amd64.tar.gz.sig alita_robot_2.0.1_darwin_amd64.tar.gz || echo "Verification failed!"
+gpg --verify botuto_robot_2.0.1_darwin_amd64.tar.gz.sig alita_robot_2.0.1_darwin_amd64.tar.gz || echo "Verification failed!"
 ```
 
 ## Contributing to the project
